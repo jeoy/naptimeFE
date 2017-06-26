@@ -1,0 +1,31 @@
+.footer {
+  position: relative;
+  margin-top: 100px;
+  height: 100px;
+  width: 100%;
+  background-color: #f8f8f8;
+}
+
+.footer-left {
+  margin-left: 128px;
+  padding-top: 42px;
+  display: inline-block;
+  span {
+    margin-right: 25px;
+    font-size: 18px;
+    line-height: 21px;
+  }
+}
+
+.footer-right {
+  display: inline-block;
+  float: right;
+  margin-right: 130px;
+  padding-top: 42px;
+
+  span {
+    margin-right: 25px;
+    font-size: 18px;
+    line-height: 21px;
+  }
+}
